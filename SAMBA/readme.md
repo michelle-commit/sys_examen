@@ -8,7 +8,8 @@ Partager une imprimante Linux avec des machines Windows
 Partager une imprimante Windows à partir d’un hôte LinuxGérer des listes de machines présentes sur le réseau et leur mise à disposition pour tous types de clients (cf : voisinage réseau)
 
 
-3. Comment installer samba sur linux 
+3. Comment installer samba sur linux
+ 
     Utiliser la commande suivante : 
     $ sudo apt-get install samba 
     
